@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm Atul Singh<br>A passionate Full Stack Java Web Developer from India👇
+I'm Atul Singh, a Java Backend Developer passionate about building scalable, secure, and high-performance applications using Spring Boot and Microservices.👇
 
 
 ## 🌐 Socials:
