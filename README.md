@@ -12,7 +12,6 @@
 ![Java 8](https://img.shields.io/badge/Java%208-%23F89820.svg?style=plastic&logo=oracle&logoColor=white)
 ![Multithreading](https://img.shields.io/badge/Multithreading-%23007396.svg?style=plastic&logo=java&logoColor=white)
 ![Exception Handling](https://img.shields.io/badge/Exception%20Handling-%23E34F26.svg?style=plastic&logo=java&logoColor=white)
-![Advance Java](https://img.shields.io/badge/Advance Java-%23007396.svg?style=plastic&logo=java&logoColor=white)
 ![Spring Core](https://img.shields.io/badge/Spring%20Core-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=plastic&logo=spring&logoColor=white)
