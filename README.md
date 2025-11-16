@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm ATul Singh<br>A passionate Full Stack Java Web Developer from India👇
+ I'm Atul Singh<br>A passionate Full Stack Java Web Developer from India👇
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AtulSingh1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
